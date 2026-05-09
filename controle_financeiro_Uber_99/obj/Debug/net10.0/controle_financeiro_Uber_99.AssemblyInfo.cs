@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("controle_financeiro_Uber_99")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9b55657d80e89632e759ba4cdc70c804fe55418")]
 [assembly: System.Reflection.AssemblyProductAttribute("controle_financeiro_Uber_99")]
 [assembly: System.Reflection.AssemblyTitleAttribute("controle_financeiro_Uber_99")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
